@@ -1,1 +1,3 @@
 # passwordgenerator
+
+This project incorporated the knowledge that we gained this week about JavaScript. It required the use of variables, conditionals (if, else if, else) statements, functions, and loops. I've come to realize that JavaScript is incredibly initimidating when first attempting to tackle a project and that the use of pseudocode to map out your objectives in lamence terms is essential to not becoming confused/overwhelmed by your goal. Bit by bit and piece by piece, JavaScript can be built or unraveled easily so long as you follow a general step by step process rather than trying to accomplish everything at once. Everything within JavaScript is interconnected and must follow a precise order of operations in order to function properly.
